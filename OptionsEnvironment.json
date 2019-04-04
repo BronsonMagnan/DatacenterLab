@@ -1,0 +1,11 @@
+{
+    "ConfigFile":  "OptionsEnvironment.json",
+    "HyperVServerName":  "",
+    "HyperVServerUserName":  "",
+    "HyperVServerPassword":  null,
+    "VMStoragePath":  "",
+    "InternetVSwitch":  "",
+    "RRASExternalIP":  "",
+    "RRASExternalPrefixLength":  0,
+    "RRASExternalGatewayIP":  ""
+}
